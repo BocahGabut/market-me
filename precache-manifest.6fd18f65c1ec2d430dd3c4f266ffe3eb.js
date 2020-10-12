@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36277dcdbc6e0ca1e151070ed12581e5",
+    "revision": "daf44158d6cf8b8460403e95e0174a5c",
     "url": "/market-me/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/market-me/static/css/2.d2f0eb39.chunk.css"
   },
   {
-    "revision": "ca48147960c21b2e2131",
+    "revision": "7479fbf8104b23becbc9",
     "url": "/market-me/static/css/main.af17c3b8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/market-me/static/js/2.de89d3c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca48147960c21b2e2131",
-    "url": "/market-me/static/js/main.d148eb42.chunk.js"
+    "revision": "7479fbf8104b23becbc9",
+    "url": "/market-me/static/js/main.e5128e70.chunk.js"
   },
   {
     "revision": "0f186dbe661d648ab4ae",
