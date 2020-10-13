@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/market-me/static/css/main.af17c3b8.chunk.css",
-    "main.js": "/market-me/static/js/main.d16fbe29.chunk.js",
-    "main.js.map": "/market-me/static/js/main.d16fbe29.chunk.js.map",
+    "main.js": "/market-me/static/js/main.d5723578.chunk.js",
+    "main.js.map": "/market-me/static/js/main.d5723578.chunk.js.map",
     "runtime-main.js": "/market-me/static/js/runtime-main.27731e78.js",
     "runtime-main.js.map": "/market-me/static/js/runtime-main.27731e78.js.map",
     "static/css/2.d2f0eb39.chunk.css": "/market-me/static/css/2.d2f0eb39.chunk.css",
     "static/js/2.de89d3c3.chunk.js": "/market-me/static/js/2.de89d3c3.chunk.js",
     "static/js/2.de89d3c3.chunk.js.map": "/market-me/static/js/2.de89d3c3.chunk.js.map",
     "index.html": "/market-me/index.html",
-    "precache-manifest.a1049d0a045f594d358563a797aa7a5d.js": "/market-me/precache-manifest.a1049d0a045f594d358563a797aa7a5d.js",
+    "precache-manifest.2af9f37f7f98fa019086562fe3d6abb9.js": "/market-me/precache-manifest.2af9f37f7f98fa019086562fe3d6abb9.js",
     "service-worker.js": "/market-me/service-worker.js",
     "static/css/2.d2f0eb39.chunk.css.map": "/market-me/static/css/2.d2f0eb39.chunk.css.map",
     "static/css/main.af17c3b8.chunk.css.map": "/market-me/static/css/main.af17c3b8.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d2f0eb39.chunk.css",
     "static/js/2.de89d3c3.chunk.js",
     "static/css/main.af17c3b8.chunk.css",
-    "static/js/main.d16fbe29.chunk.js"
+    "static/js/main.d5723578.chunk.js"
   ]
 }
