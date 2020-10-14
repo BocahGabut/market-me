@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/market-me/static/css/main.af17c3b8.chunk.css",
-    "main.js": "/market-me/static/js/main.070e4be7.chunk.js",
-    "main.js.map": "/market-me/static/js/main.070e4be7.chunk.js.map",
-    "runtime-main.js": "/market-me/static/js/runtime-main.27731e78.js",
-    "runtime-main.js.map": "/market-me/static/js/runtime-main.27731e78.js.map",
-    "static/css/2.d2f0eb39.chunk.css": "/market-me/static/css/2.d2f0eb39.chunk.css",
-    "static/js/2.de89d3c3.chunk.js": "/market-me/static/js/2.de89d3c3.chunk.js",
-    "static/js/2.de89d3c3.chunk.js.map": "/market-me/static/js/2.de89d3c3.chunk.js.map",
-    "index.html": "/market-me/index.html",
-    "precache-manifest.97586b35df68169b290c0c454a648d75.js": "/market-me/precache-manifest.97586b35df68169b290c0c454a648d75.js",
-    "service-worker.js": "/market-me/service-worker.js",
-    "static/css/2.d2f0eb39.chunk.css.map": "/market-me/static/css/2.d2f0eb39.chunk.css.map",
-    "static/css/main.af17c3b8.chunk.css.map": "/market-me/static/css/main.af17c3b8.chunk.css.map",
-    "static/js/2.de89d3c3.chunk.js.LICENSE.txt": "/market-me/static/js/2.de89d3c3.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/market-me/static/media/logo.9069a55f.png"
+    "main.css": "/market-me/product/static/css/main.af17c3b8.chunk.css",
+    "main.js": "/market-me/product/static/js/main.bf1b614e.chunk.js",
+    "main.js.map": "/market-me/product/static/js/main.bf1b614e.chunk.js.map",
+    "runtime-main.js": "/market-me/product/static/js/runtime-main.748f06ee.js",
+    "runtime-main.js.map": "/market-me/product/static/js/runtime-main.748f06ee.js.map",
+    "static/css/2.d2f0eb39.chunk.css": "/market-me/product/static/css/2.d2f0eb39.chunk.css",
+    "static/js/2.de89d3c3.chunk.js": "/market-me/product/static/js/2.de89d3c3.chunk.js",
+    "static/js/2.de89d3c3.chunk.js.map": "/market-me/product/static/js/2.de89d3c3.chunk.js.map",
+    "index.html": "/market-me/product/index.html",
+    "precache-manifest.a4afc65f0c9f127382ae50bbde09379c.js": "/market-me/product/precache-manifest.a4afc65f0c9f127382ae50bbde09379c.js",
+    "service-worker.js": "/market-me/product/service-worker.js",
+    "static/css/2.d2f0eb39.chunk.css.map": "/market-me/product/static/css/2.d2f0eb39.chunk.css.map",
+    "static/css/main.af17c3b8.chunk.css.map": "/market-me/product/static/css/main.af17c3b8.chunk.css.map",
+    "static/js/2.de89d3c3.chunk.js.LICENSE.txt": "/market-me/product/static/js/2.de89d3c3.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/market-me/product/static/media/logo.9069a55f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.27731e78.js",
+    "static/js/runtime-main.748f06ee.js",
     "static/css/2.d2f0eb39.chunk.css",
     "static/js/2.de89d3c3.chunk.js",
     "static/css/main.af17c3b8.chunk.css",
-    "static/js/main.070e4be7.chunk.js"
+    "static/js/main.bf1b614e.chunk.js"
   ]
 }
